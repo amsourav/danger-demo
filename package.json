@@ -13,13 +13,6 @@
     "react-dom": "17.0.1"
   },
   "devDependencies": {
-    "@babel/cli": "^7.13.10",
-    "@babel/core": "^7.13.10",
-    "@babel/plugin-transform-flow-strip-types": "^7.13.0",
-    "@babel/plugin-transform-runtime": "^7.13.10",
-    "@babel/preset-env": "^7.13.10",
-    "@babel/preset-react": "^7.12.13",
-    "@babel/preset-typescript": "^7.13.0",
     "@seadub/danger-plugin-dependencies": "^1.0.0",
     "danger": "^10.6.3",
     "danger-plugin-linear-history": "^1.0.0"
